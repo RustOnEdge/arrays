@@ -101,4 +101,5 @@ int main() {
 	cout << cars(2, 48, 76) << endl;
 	cout << cars(43, 15, 87);
 
+	cout << "Hello world";
 }
